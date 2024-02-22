@@ -1,4 +1,4 @@
-# beamlytics.github.io
+# Beamlytics
 
 Beamlytics is a serverless ( only on google dataflow), no-code platform for batch and streaming data analytics. 
 It is built using apache beam as core engine and angular for UI. 
