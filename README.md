@@ -7,4 +7,4 @@ To achieve this, our first pledge is to keep our software code always free and o
 
 Stay tuned for our product launch announcements!!
 
-In the mean time, please check out our affiliate product : highly scalable inventory service at https://serover.com
+In the mean time, please check out our affiliate product : highly scalable inventory service at #https://serover.com
