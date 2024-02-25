@@ -10,7 +10,4 @@ intro_image_hide_on_mobile: true
 
 # Services
 
-Our company provides expert technical and business consulting services. 
-Our consultants have a deep expertise in development of modern cloud native microservices development as well as business functions in retail and supply chain. 
-
-With expertise in both business and technology, we excel in leading agule teams delivering any solution successfully.
+Imagine your business soaring with the power of cloud-native agility. At Beamlytics , we bridge the gap between cutting-edge technology and business success. Our seasoned consultants, armed with deep expertise in both domains, don't just deliver solutions - they guide agile teams to achieve breakthrough results in modern microservices development, retail, and supply chain. We're not just consultants; we're your trusted partners, propelling your business towards a future of seamless efficiency and growth.
