@@ -1,0 +1,62 @@
+baseurl: '/'
+permalink: pretty
+title: 'Beamlytics'
+
+logo:
+  mobile: "images/logo/Beamlytics-simple.svg"
+  mobile_height: "200px"
+  mobile_width: "200px"
+  desktop: "images/logo/Beamlytics_simple.svg"
+  desktop_height: "200px"
+  desktop_width: "200px"
+
+home: 
+  limit_services: 3
+  services_header: Our Services
+  limit_products: 3
+  products_header: Our Products
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+  products:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"    
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

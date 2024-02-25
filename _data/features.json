@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Always Free and Open-source",
+    "description": "Our products will always be free and open source",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Expertise in Cloud Native Microservices",
+    "description": "All our consultants are GCP, AWS and Azure certitied professional architects with decades of experinece in supply chain and omnichannel ecommerce",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  
+  },
+  {
+    "title": "Expertise in supply chain and omnichannel commerce",
+    "description": "All our consultants are GCP, AWS and Azure certitied professional architects with decades of experinece in supply chain and omnichannel ecommerce",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  
+  }
+]
