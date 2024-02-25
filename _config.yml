@@ -2,8 +2,10 @@ baseurl: '/'
 permalink: pretty
 title: 'Beamlytics'
 
+google_analytics: "G-RD9QR7GHB9"
+
 logo:
-  mobile: "images/logo/Beamlytics-simple.svg"
+  mobile: "images/logo/Beamlytics_simple.svg"
   mobile_height: "200px"
   mobile_width: "200px"
   desktop: "images/logo/Beamlytics_simple.svg"
