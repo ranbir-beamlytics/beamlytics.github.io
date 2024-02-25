@@ -10,4 +10,4 @@ show_call_box: true
 
 # Beamlytics
 
-Beamlytics is a new startup with vision to help retailers adopt data driven, AI/ML strategies to improve their customers' lives with its innovative, always-free and open-source software products.
+Beamlytics democratizes AI, making data-driven retail accessible to all. We empower retailers to build a more personalized, sustainable future for their customers and the planet.
