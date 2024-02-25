@@ -1,87 +1,44 @@
 ---
 title: "Cloud Native Microservices"
-date: 2019-01-28T15:15:26+10:00
-weight: 4
+date: 2024-02-25
+weight: 2
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Building Agile and Scalable Solutions with Cloud Native Microservices
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<img src="/images/cloud_native_microservices.jpg" alt="Cloud Native Microservices" width="500"/>
 
-# Objectives
+## Welcome to the exciting world of cloud native microservices!
 
-Financial accounting and financial reporting are often used as synonyms.
+As a software engineer, you're at the forefront of building modern, agile, and scalable applications that empower businesses to adapt and thrive in dynamic environments. This blog delves into the architecture and technologies you're leveraging – Spring Boot, Spring Cloud, Micronaut, Quarkus, NoSQL databases, serverless functions, and Istio service mesh – to craft robust and efficient microservices.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+# The Power of Microservices:
+By breaking down monolithic applications into smaller, independent services, you gain numerous advantages:
+1. Increased Agility: 
+Develop, deploy, and update individual services independently, accelerating innovation and time-to-market.
+2. Enhanced Scalability:
+Scale individual services based on demand, optimizing resource utilization and cost efficiency.
+3. Improved Resilience:
+Isolate failures to prevent cascading issues, ensuring high availability and system uptime.
+4. Technological Flexibility:
+Choose the best tools and technologies for each service without impacting others.
 
-## Relevance
+# Your Microservice Stack:
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Your architecture showcases a well-rounded approach to cloud-native microservices development:
+1. Spring Boot and Spring Cloud: These popular frameworks provide a solid foundation for building RESTful APIs and microservices with Spring's familiar development experience.
+2. Micronaut and Quarkus: These lightweight alternatives offer high performance and scalability, ideal for resource-intensive tasks or containerized environments
+3. NoSQL Databases: DynamoDB and Firestore offer flexible, scalable data storage options for NoSQL data models, eliminating the need for relational database management overhead.
+4. Serverless Functions: AWS Lambda and Google Cloud Functions provide a serverless execution environment, eliminating infrastructure management and scaling concerns.
+5. GKE with Istio Service Mesh: Deploying microservices on Kubernetes with Istio empowers you with advanced traffic management, API discovery, security, and observability features.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+# Unlocking the Benefits:
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+By effectively utilizing these technologies, you achieve:
+1. Smooth API Discovery and Gateway: Istio's service mesh seamlessly connects your microservices, simplifying communication and enabling efficient routing.
+2. Enhanced Observability: Distributed tracing and network telemetry provide deep insights into service interactions, aiding troubleshooting and performance optimization.
+3. Dynamic Traffic Management: Istio empowers you to implement A/B testing, canary deployments, and fault injection for safe and controlled experimentation and service updates.
 
-## Faithful Representation
+Stay Tuned!
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+This is just the beginning of your cloud-native microservices journey. We'll continue to explore deeper into specific technologies, share best practices, and discuss challenges and solutions along the way. Stay tuned for upcoming posts and let's build the future of software together!

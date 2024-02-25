@@ -1,84 +1,70 @@
 ---
 title: "Modern Omnichannel Order Management"
-date: 2018-11-18T12:33:46+10:00
+date: 2024-02-25
 weight: 1
 ---
 
-Blah blah bleh bleh blah bleh
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## Conquering the Omnichannel Challenge: Modern Order Management with Cloud-Native Microservices
 
-# Objectives
+In today's retail landscape, customers expect a seamless and unified experience across all channels, whether they're browsing online, shopping in-store, or using a mobile app. This omnichannel approach demands a robust and adaptable order management system (OMS) built for agility, scalability, and real-time visibility. 
 
-Financial accounting and financial reporting are often used as synonyms.
+Enter the power of cloud-native microservices!
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+<img src="/images/modern_oms.jpg" alt="Modern Microservices based OMS" width="500"/>
 
-## Relevance
+## The Microservices Revolution:
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Traditional monolithic OMS systems often struggle to keep pace with the dynamic nature of omnichannel commerce. Their rigid architecture limits customization, scalability, and integration with other systems. Cloud-native microservices offer a refreshing alternative:
+* **Decoupled Services** Individual microservices handle specific tasks (e.g., order capture, payment processing, inventory management) independently, fostering agility and innovation.
+* **Scalability on Demand** Need to handle a surge in online orders? Simply scale up the relevant microservices without impacting others.
+* **Cloud-Based Flexibility** Leverage the power and elasticity of cloud platforms for effortless deployment and management.
+* **Enhanced Integration** Microservices integrate seamlessly with other systems, including CRM, ERP, and logistics platforms.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Benefits for Retailers:
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Adopting a cloud-native microservices-based OMS unlocks significant advantages for retailers:
+* **Improved Customer Experience:** Offer real-time order tracking, inventory availability, and omnichannel fulfillment options.
+* **Reduced Costs** Optimize inventory management, streamline fulfillment processes, and eliminate IT infrastructure overhead.
+* **Faster Time to Market** Develop and deploy new features and functionalities quickly and efficiently.
+* **Increased Innovation** Experiment with emerging technologies like AI and machine learning to personalize the shopping experience.
 
-## Faithful Representation
+## Build vs Buy for Modern OMS
+Deciding between building or buying a modern software system hinges on your specific needs and resources. Building offers **customization and control**, but requires technical expertise and upfront investment. Buying provides **faster implementation and lower initial cost**, but flexibility might be limited. Consider your _business size_, _technical expertise_, _integration needs_, _budget_, and _future scalability_ to make the best choice. Explore **hybrid options and managed services** for more flexibility. Ultimately, the ***optimal path lies in a well-informed decision based on your unique business context***.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Beamlytics has proven experience in implementation of top packaged OMS solutions:
+1. **IBM Sterling Order management** with Key addons such as
+  * _Sterling Store Engagement_
+  * *Sterling Call Center*
+  * _Supply chain intelligence_
+2. **IBM Intelligent promising** 
+3. **Fluentcommerce** *order management*, *big inventory*, *order promising* and *order orchestration*
+4. **Kibocommerce order management**
 
-## Enhancing Qualitative Characteristics
+[Contact us](/contact?ref="OMS") today to learn more about our OMS implementation services!
 
-### Verifiability
+## Building the Perfect Microservices Stack:
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+The ideal microservices architecture for your OMS depends on your specific needs and business goals. Here are some popular choices:
+* **API Gateways**: Manage API access and security for your microservices. Popular options include Spring Cloud Gateway and Istio.
+* **Containerization**: Package your microservices for portability and scalability with Docker or Kubernetes.
+* **Messaging Queues**: Enable asynchronous communication between microservices using platforms like RabbitMQ or Kafka.
+* **Event-Driven Architecture**: React to real-time events and trigger actions based on specific conditions.
 
-### Comparability
+Beamlytics has proven experience in building highly scalable cloud native microservices and we can help you in your OMS journey. Our consultants are certified cloud architects with average of 10 years of development with custom, highly scalable microservices in retail and supply chain domain.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+[Contact us](/contact?ref="consulting") today to learn more about our technolgy consulting capabilities!
 
-### Understandability
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+# Ready to Embrace the Future?
 
----
+Modern cloud-native microservices offer a compelling solution for building a robust and adaptable OMS that supports your omnichannel strategy. By leveraging this technology, you can deliver a seamless shopping experience, improve operational efficiency, and gain a competitive edge in the ever-evolving retail landscape.
 
-## Statement of cash flows
+Start your journey today! Explore the vast ecosystem of tools and frameworks available, and partner with experienced developers to design and implement a microservices-based OMS tailored to your unique needs.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Stay tuned for future posts:
+* We'll dive deeper into specific microservices architectures for different business scenarios.
+* Explore the integration of AI and machine learning for personalized omnichannel experiences.
+* Discuss best practices for deploying and managing cloud-native OMS systems.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Remember, the future of omnichannel commerce is agile, scalable, and microservices-powered. Are you ready to join the revolution?

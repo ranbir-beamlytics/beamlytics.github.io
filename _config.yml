@@ -1,17 +1,20 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Beamlytics'
 
 logo:
-  mobile: "images/logo/Beamlytics-logos_transparent.png"
-  mobile_height: "10px"
-  mobile_width: "10px"
-  desktop: "images/logo/Beamlytics-logos_transparent.png"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/Beamlytics-simple.svg"
+  mobile_height: "200px"
+  mobile_width: "200px"
+  desktop: "images/logo/Beamlytics_simple.svg"
+  desktop_height: "200px"
+  desktop_width: "200px"
 
 home: 
-  limit_services: 6
+  limit_services: 3
+  services_header: Our Services
+  limit_products: 3
+  products_header: Our Products
 
 collections:
   services:
