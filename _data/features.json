@@ -10,7 +10,7 @@
   },
   {
     "title": "Expertise in Cloud Native Microservices",
-    "description": "All our consultants are GCP, AWS and Azure certitied professional architects with decades of experinece in supply chain and omnichannel ecommerce",
+    "description": "Our GCP, AWS, and Azure certified architects, with decades of experience in building & deploying cloud-native microservices (Spring Boot, Micronaut, Quarkus) on GCP, AWS, Azure using serverless as well as Kubernetes & Istio.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -20,7 +20,7 @@
   },
   {
     "title": "Expertise in supply chain and omnichannel commerce",
-    "description": "All our consultants are GCP, AWS and Azure certitied professional architects with decades of experinece in supply chain and omnichannel ecommerce",
+    "description": "Our GCP, AWS, and Azure certified architects, also holding omnichannel commerce and supply chain certifications from Dartmouth and MIT (via EdX), bring decades of experience implementing these solutions.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
