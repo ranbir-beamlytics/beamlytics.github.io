@@ -25,6 +25,9 @@ collections:
   products:
     output: true
     sort_by: weight
+  blogs:
+    output: true
+    sort_by: date  
   team:
     output: true
 
@@ -39,6 +42,11 @@ defaults:
       type: "products"
     values:
       layout: "product"    
+  - scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "blog"        
   - scope:
       path: ""
       type: "team"
