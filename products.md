@@ -2,7 +2,7 @@
 title: Products 
 layout: products
 description: Products
-intro_image: "/images/illustrations/reading.svg"
+intro_image: "images/illustrations/SoftwareProductsAbstractImage.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---

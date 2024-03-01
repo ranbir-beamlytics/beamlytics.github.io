@@ -5,12 +5,12 @@ title: 'Beamlytics'
 google_analytics: "G-RD9QR7GHB9"
 
 logo:
-  mobile: "images/logo/Beamlytics_simple.svg"
+  mobile: "images/logo/Beamlytics-simple.svg"
   mobile_height: "200px"
   mobile_width: "200px"
-  desktop: "images/logo/Beamlytics_simple.svg"
-  desktop_height: "200px"
-  desktop_width: "200px"
+  desktop: "images/logo/Beamlytics-simple.svg"
+  desktop_height: "500px"
+  desktop_width: "500px"
 
 home: 
   limit_services: 3

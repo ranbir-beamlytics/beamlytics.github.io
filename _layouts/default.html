@@ -32,17 +32,21 @@
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
-  {% if site.google_analytics %}
+
+  {% if jekyll.environment == "production" and site.google_analytics %}
   {% include analytics.html %}
   {% endif %}
 </head>
 
 <body class='page {{layout.bodyClass}}'>
+  
+  {% if jekyll.environment == "production" %}
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTPNR5Z4"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  
+  {% endif %}
+
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
