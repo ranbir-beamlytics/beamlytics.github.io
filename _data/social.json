@@ -10,19 +10,14 @@
     "image": "images/social/twitter.svg"
   },
   {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/company/beamlytics",
+      "image": "images/social/linkedin.svg"
   },
   {
       "name": "Email",
       "link": "mailto:admin@beamlytics.com ",
       "image": "images/social/email.svg"
-  },
-  {
-      "name": "Instagram",
-      "link": "https://instagram.com",
-      "image": "images/social/instagram.svg"
   },
   {
       "name": "Discord",
