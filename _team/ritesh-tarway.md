@@ -9,3 +9,4 @@ weight: 1
 # Introduction
 
 Ritesh has 20+ years of experience in technology and omnichannel order management.
+[![test](/images/team/ritesh_tarway.jpg "test")](/images/team/ritesh_tarway.jpg "test")
