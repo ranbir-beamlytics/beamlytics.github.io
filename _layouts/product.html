@@ -8,7 +8,11 @@ bodyClass: "page-service"
     <div class="col-12 col-md-8">
       <div class="service service-single">
         <h1 class="title">{{page.title}}</h1>
-        <div class="content">{{content}}</div>
+        <div class="content">{{content}}
+          {% if page.show_call_box %}
+          {% include call.html show_button=true %}
+          {% endif %}
+        </div>
       </div>
     </div>
   </div>
