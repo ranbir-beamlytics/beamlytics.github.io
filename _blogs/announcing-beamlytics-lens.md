@@ -69,11 +69,11 @@ Beamlytics Lens will be available for subscription through Beamlytics by the end
 
 |  References |
 | ------------ |
-|  https://hbr.org/2023/02/why-retailers-fail-to-adopt-advanced-data-analytics#:~:text=This%20is%20already%20having%20real,sector's%20gains%20in%20market%20capitalization |
-|  https://www.mckinsey.com/industries/retail/our-insights/jumpstarting-value-creation-with-data-and-analytics-in-fashion-and-luxury |
-| https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/the%20path%20forward%20for%20european%20grocery%20retailers/disruption-and-uncertainty-the-state-of-grocery-retail-2021-europe-final.pdf#page=4|
+|  [Why Retailers Fail to Adopt Advanced Data Analytics](https://hbr.org/2023/02/why-retailers-fail-to-adopt-advanced-data-analytics#:~:text=This%20is%20already%20having%20real,sector's%20gains%20in%20market%20capitalization){:target="_blank"} |
+|  [Jumpstarting value creation with data and analytics in fashion and luxury](https://www.mckinsey.com/industries/retail/our-insights/jumpstarting-value-creation-with-data-and-analytics-in-fashion-and-luxury){:target="_blank"} |
+| [Disruption & Uncertainty-The State of Grocery Retail 2021](https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/the%20path%20forward%20for%20european%20grocery%20retailers/disruption-and-uncertainty-the-state-of-grocery-retail-2021-europe-final.pdf#page=4){:target="_blank"}|
 
-Please see [Beamlytics product page](/products/product-beamlytics-lens/ "product-beamlytics-lens") for detailed information
+Please see [Beamlytics product page](/products/product-beamlytics-lens/ "product-beamlytics-lens"){:target="_blank"} for detailed information
 
 
 **Get in touch if you need more information**
