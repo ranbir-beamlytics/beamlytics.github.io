@@ -20,7 +20,7 @@ The MVP release of Beamlytics Lens boasts a powerful suite of features to transf
 
 **Machine Learning-powered Forecasting**: Beamlytics Lens leverages pre-built machine learning models to generate sales forecasts, demand forecasts, and revenue forecasts. These forecasts are based on your connected event sources and become operational upon integrating your active inventory data. Access forecast results through APIs or in BQML syntax for further analysis.
 >Following ML models will be completely operationalized when data sources are connected and data is loaded in our platform-
-- Custom Churn Prediction
+- Customer Churn Prediction
 - Sales Forecasting
 - Demand Forecasting
 - ECommerce conversion rate prediction
