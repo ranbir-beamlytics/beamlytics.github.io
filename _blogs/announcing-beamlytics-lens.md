@@ -42,7 +42,7 @@ We at Beamlytics understand these challenges. That's why we created Beamlytics L
 
 > **Ready-to-use reports and pre-built models**: We provide out-of-the-box solutions for uncovering insights and streamlining the analytics process.
 
-> **Real-time omnichannel insights**: Gain a holistic view of your inventory across all channels, from individual stores to custom groups.Real-time omnichannel insights: Gain a holistic view of your inventory across all channels, from individual stores to custom groups.
+> **Real-time omnichannel insights**: Gain a holistic view of your inventory across all channels, from individual stores to custom groups.
 
 > **Low-stock and out-of-stock alerts**: Respond to stock issues proactively and prevent cart abandonment.
 
