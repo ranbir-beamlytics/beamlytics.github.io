@@ -8,7 +8,7 @@ show_call_box: true
 
 Author :<a href="https://www.linkedin.com/in/nishana-hafsath-kt-384a05238/"> **Nishana Hafsath KT**</a><br>
 >Nishana works as a data engineer in Beamlytics. She has created sales forecasting and demand forecasting models as part of our product <a href="/products/product-beamlytics-lens"> **Beamlytics Lens** </a>. Please reach out to Nishana if you want guidance on automating your MLOps pipeline.  
->>Email : <a href="mailto:nishanar@beamlytics.com">Nishana@beamlytics.com</a>
+>>Email : <a href="mailto:nishana@beamlytics.com">Nishana@beamlytics.com</a>
 
 In today's data-driven world, machine learning models have become the driving force behind uncovering valuable insights and making data-backed decisions. However, as data volumes continue to grow exponentially, managing the entire lifecycle of these models can be a significant challenge. From data preparation and model training to deployment and monitoring, each stage requires careful orchestration and automation to ensure consistent and reliable performance.
 
